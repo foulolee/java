@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1> 상인아 힘내</h1>
+<h1>just do it</h1>
 </body>
 </html>
